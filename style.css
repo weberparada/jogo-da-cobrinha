@@ -1,0 +1,9 @@
+body {
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    /* deixando um item debaixo do outro */
+    flex-direction: column;
+}
